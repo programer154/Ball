@@ -1,0 +1,15 @@
+class Ball:
+def __int__(self):
+  self.mood = "depressed"
+  self.size = 100 
+def grow(self)
+self.size = self.size+1
+ def changemood(self, mood):
+self.mood = mood
+
+ball1 = Ball(Depresed)
+ball2 = Ball("great")
+print(ball1.mood)
+print(ball2.mood)
+ball.size
+print(ball1.size)
